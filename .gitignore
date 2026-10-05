@@ -1,0 +1,5 @@
+/accountill/
+/espionage-event/
+node_modules/
+.env
+*.log
